@@ -1,12 +1,12 @@
-adjective (descriptor): 
-adjective (descriptor): 
-plural noun (person/place/thing):
-a number:
-plural noun (person/place/thing):
-adjective (descriptor): 
-proper noun (name of a person/place/thing):
-verb (action word) ending in -ing:
-adjective (descriptor):
-noun (person/place/thing):
-adjective (descriptor):
-noun (person/place/thing):
+adjective (descriptor): sparkling
+adjective (descriptor): whimsical
+plural noun (person/place/thing): penguins
+a number: 42
+plural noun (person/place/thing): treehouses
+adjective (descriptor): adventurous
+proper noun (name of a person/place/thing): Dolly Parton
+verb (action word) ending in -ing: juggling
+adjective (descriptor): cozy
+noun (person/place/thing): popcorn
+adjective (descriptor): mischievous
+noun (person/place/thing): astronaut
