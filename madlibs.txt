@@ -1,4 +1,4 @@
-adjective (descriptor): sparkling
+adjective (descriptor): smelly
 adjective (descriptor): whimsical
 plural noun (person/place/thing): penguins
 a number: 42
